@@ -1,0 +1,9 @@
+pvol.py
+--
+
+Simple python util to show an OSD when using the volume controls
+
+prfkill.py
+--
+
+Simple python util to show when rfkill state changes
